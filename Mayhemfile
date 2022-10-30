@@ -1,0 +1,5 @@
+project: tag
+target: tag
+
+cmds:
+  - cmd: /sum @@
